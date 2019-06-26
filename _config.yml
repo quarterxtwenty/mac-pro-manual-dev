@@ -3,3 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 title: The Mac Pro Manual
 description: The definitive guide to the legendary Mac Pro. (development version)
+aux_links:
+  "Just the Docs docs":
+    - "//pmarsceill.github.io/just-the-docs/"
+
