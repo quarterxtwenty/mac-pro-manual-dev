@@ -1,38 +1,4 @@
 # site settings
-remote_theme: quarterxtwenty/quarterxtwenty.github.io
-# title: The Mac Pro Manual
-# subtitle: by Quarter × Twenty
-# email: daniel@quarterxtwenty.com
-# description: The definitive owner's manual for the Mac Pro.
-# baseurl: /mac-pro-manual
-# url: #http://quarterxtwenty.github.io # the base hostname & protocol for your site
-# author: Daniel Toman
-# street_address: "2070 Fell St #8"
-# city: San Francisco
-# state: CA
-# zip_code: 94117
-# country: United States of America
-# phone: (415) 993-2669
-# 
-# # homepage tiles
-# tiles-source: pages # accepts "posts" or "pages"
-# tiles-count: 6
-# 
-# # social settings
-# 500px_url:
-# facebook_url:
-# github_url:
-# gitlab_url: #https://gitlab.com/u/andrewbanchich
-# googleplus_url: #https://plus.google.com/u/0/+AndrewBanchich
-# instagram_url: https://instagram.com/quarterxtwenty
-# linkedin_url: https://www.linkedin.com/in/daniel-toman
-# pinterest_url:
-# slack_url:
-# twitter_url: https://twitter.com/quarterxtwenty
-# 
-# # build settings
-# markdown: kramdown
-# 
-# sass:
-#   style: compressed
-# 
+remote_theme: pmarsceill/just-the-docs
+color_theme: "dark"
+title: The Mac Pro Manual
