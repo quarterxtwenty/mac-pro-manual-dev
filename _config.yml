@@ -1,4 +1,4 @@
 # site settings
 remote_theme: pmarsceill/just-the-docs
-color_theme: "dark"
+color_scheme: "dark"
 title: The Mac Pro Manual
