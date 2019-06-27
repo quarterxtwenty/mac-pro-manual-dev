@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # The definitive owner's manual for the legendary Mac Pro.
-{: .fs-7 }
+{: .fs-6 }
 
 Development version of [The Mac Pro Manual](http://quarterxtwenty.com/mac-pro-manual/). Not for public consumption.
 {: .fs-6 .fw-300 }
