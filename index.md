@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Home
+title: DEV
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Development version of The Mac Pro Manual"
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# The definitive owner's manual for the legendary Mac Pro.
+{: .fs-7 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Development version of [The Mac Pro Manual](http://quarterxtwenty.com/mac-pro-manual/). Not for public consumption.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Theme docs](https://pmarsceill.github.io/just-the-docs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Live Site](http://quarterxtwenty.com/mac-pro-manual/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -60,10 +60,6 @@ $ bundle exec jekyll serve
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
-
-- [See configuration options](https://pmarsceill.github.io/just-the-docs/docs/configuration/)
-
 ---
 
 ## About the project
@@ -73,14 +69,3 @@ Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill
 ### License
 
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
