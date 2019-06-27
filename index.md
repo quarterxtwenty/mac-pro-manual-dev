@@ -1,9 +1,7 @@
 ---
-layout: default
 title: DEV
 nav_order: 1
 description: "Development version of The Mac Pro Manual"
-permalink: /
 ---
 
 # The definitive owner's manual for the legendary Mac Pro.
@@ -73,16 +71,3 @@ Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill
 ### License
 
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
-
-Commence Sagan Ipsum. Prime number dream of the mind's eye Vangelis concept of the number one made in the interiors of collapsing stars with pretty stories for which there's little good evidence. Are creatures of the cosmos ship of the imagination extraordinary claims require extraordinary evidence hundreds of thousands courage of our questions courage of our questions. Network of wormholes at the edge of forever paroxysm of global death another world not a sunrise but a galaxyrise the only home we've ever known and billions upon billions upon billions upon billions upon billions upon billions upon billions.
